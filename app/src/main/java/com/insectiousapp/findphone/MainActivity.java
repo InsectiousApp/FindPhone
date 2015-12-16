@@ -35,7 +35,7 @@ import android.widget.TextView;
 public class MainActivity extends Activity implements OnSignalsDetectedListener{
 
 
-	int a=5;
+	int a=3;
 
 	static MainActivity mainApp;
 	

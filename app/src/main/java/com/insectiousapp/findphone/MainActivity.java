@@ -34,6 +34,10 @@ import android.widget.TextView;
 
 public class MainActivity extends Activity implements OnSignalsDetectedListener{
 
+	//another commit
+
+	TextView tv;
+
 	static MainActivity mainApp;
 	
 	public static final int DETECT_NONE = 0;
